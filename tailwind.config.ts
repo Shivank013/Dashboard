@@ -12,6 +12,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        inter : ["var(--inter)"],
+        ramabhadra: ['var(--ramabhadra)'],
+        radioCanada: ['var(--radioCanada)'],
+        rajdhani: ['var(--rajdhani)'],
+      },
     },
   },
   plugins: [],
